@@ -1,1 +1,1 @@
-## An approach to make Database Sharding Distributrd.
+## An approach to make Database Sharding Distributed.
